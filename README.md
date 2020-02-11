@@ -1,6 +1,6 @@
 **# Employee_Records_SQL**
 
-For this project I created the tables to hold data in the CSVs, imported the CSVs into a SQL database, and created numerous queries on the data. In other words:
+For this project I created the ERD tables for a group of Employee record CSVs, imported the CSVs into a SQL database, and created numerous queries on the data. In other words:
 
 1. Data Modeling
 
@@ -27,17 +27,19 @@ Then imported data into a Pandas DataFrame using Jupyter Notebook to create visu
 
 **Tools**
 
---ERD design with [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com)
---SQL and PostgreSQL database
---Python Libraries: Pandas, sqlalchemy
+--ERD design with [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+
+--SQL and PostgreSQL database.
+
+--Python Libraries: Pandas, sqlalchemy.
 
 
 **ERD Image and Analysis BarChart**
 
-![Graph 1]("images/ERD.PNG")
+![Graph 1](images/ERD.PNG)
 
 
-![Graph 2]("images/salary.png")
+![Graph 2](images/salary.png)
 
 
 
