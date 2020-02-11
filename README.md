@@ -1,4 +1,4 @@
-**# Employee_Records_SQL**
+# Employee Records SQL
 
 For this project I created the ERD tables for a group of Employee record CSVs, imported the CSVs into a SQL database, and created numerous queries on the data. In other words:
 
@@ -27,11 +27,11 @@ Then imported data into a Pandas DataFrame using Jupyter Notebook to create visu
 
 **Tools**
 
---ERD design with [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+* ERD design with [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
---SQL and PostgreSQL database.
+* SQL and PostgreSQL database.
 
---Python Libraries: Pandas, sqlalchemy.
+* Python Libraries: Pandas, sqlalchemy.
 
 
 **ERD Image and Analysis BarChart**
