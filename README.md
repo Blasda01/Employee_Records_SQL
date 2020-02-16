@@ -12,7 +12,7 @@ For this project I created the ERD tables for a group of Employee record CSVs, i
 
 #### Data Engineering
 
-* Create a table schema for each of the six CSV files. Including specific data types, primary keys, foreign keys, and other constraints.
+* Create a table schema for each of the six CSV files. Included specific data types, primary keys, and foreign keys.
 
 * Import each CSV file into the corresponding SQL table.
 
