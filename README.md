@@ -3,11 +3,8 @@
 For this project I created the ERD tables for a group of Employee record CSVs, imported the CSVs into a SQL database, and created numerous queries on the data. In other words:
 
 1. Data Modeling
-
 2. Data Engineering
-
 3. Data Analysis
-
 
 #### Data Modeling
 
