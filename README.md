@@ -8,7 +8,7 @@ For this project I created the ERD tables for a group of Employee record CSVs, i
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. Using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+* Inspect the CSVs and sketch out an ERD of the tables. Using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 #### Data Engineering
 
@@ -18,9 +18,9 @@ Inspect the CSVs and sketch out an ERD of the tables. Using [http://www.quickdat
 
 #### Data Analysis
 
-With a complete database, I designed mulitple SQL queries of the data (see MainCode.sql)
+* With a complete database, I designed mulitple SQL queries of the data (see MainCode.sql)
 
-Then imported data into a Pandas DataFrame using Jupyter Notebook to create visual of Average Salaries.
+* Then imported data into a Pandas DataFrame using Jupyter Notebook to create visual of Average Salaries.
 
 **Tools**
 
