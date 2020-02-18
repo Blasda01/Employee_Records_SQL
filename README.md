@@ -5,7 +5,7 @@ For this project I created the ERD tables for a group of Employee record CSVs, i
 1. Data Modeling
 2. Data Engineering
 3. Data Analysis
-
+  
 #### Data Modeling
 
 * Inspect the CSVs and sketch out an ERD of the tables. Using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
