@@ -54,4 +54,4 @@ OR dep.dept_name LIKE 'Development';
 SELECT last_name, COUNT(last_name) as Last_name_freq
 FROM employee
 GROUP BY last_name 
-ORDER BY COUNT(last_name) DESC;
+ORDER BY COUNT(last_name) DESC; 
