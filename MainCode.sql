@@ -8,7 +8,7 @@ ON e.emp_no = s.emp_no;
 SELECT e.emp_no, e.first_name, e.last_name, e.hire_date
 FROM employee e
 WHERE e.hire_date SIMILAR TO '1986%';
-
+ 
 --List manager information for each department
 SELECT man.dept_no, dep.dept_name, e.emp_no, e.last_name, e.first_name, man.from_date, man.to_date
 FROM dept_manager man
