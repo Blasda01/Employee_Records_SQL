@@ -22,7 +22,7 @@ For this project I created the ERD tables for a group of Employee record CSVs, i
 
 * Then imported data into a Pandas DataFrame using Jupyter Notebook to create visual of Average Salaries.
 
-**Tools**
+**Tools** 
 
 * ERD design with [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
