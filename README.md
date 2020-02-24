@@ -33,7 +33,7 @@ For this project I created the ERD tables for a group of Employee record CSVs, i
 
 **ERD Image and Analysis BarChart**
 
-![Graph 1](images/ERD.PNG)
+![Graph 1](images/ERD2.PNG)
 
 
 ![Graph 2](images/salary.png)
