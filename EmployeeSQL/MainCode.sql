@@ -3,7 +3,7 @@ SELECT e.emp_no, e.first_name, e.last_name, e.gender, s.salary
 FROM employee e
 JOIN salaries s
 ON e.emp_no = s.emp_no;
-
+  
 --Employees hired in 1986
 SELECT e.emp_no, e.first_name, e.last_name, e.hire_date
 FROM employee e
