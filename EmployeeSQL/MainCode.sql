@@ -22,7 +22,7 @@ SELECT e.emp_no, e.last_name, e.first_name, dep.dept_name
 FROM employee e
 JOIN dept_employee demp
 ON e.emp_no = demp.emp_no
-JOIN departments dep
+JOIN departments dep 
 ON demp.dept_no = dep.dept_no;
 
 --List of employees with name Hercules B.
