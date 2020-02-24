@@ -6,7 +6,7 @@ ON e.emp_no = s.emp_no;
 
 --Employees hired in 1986
 SELECT e.emp_no, e.first_name, e.last_name, e.hire_date
-FROM employee e
+FROM employee e 
 WHERE e.hire_date SIMILAR TO '1986%';
  
 --List manager information for each department
