@@ -6,9 +6,9 @@ ON e.emp_no = s.emp_no;
 
 --Employees hired in 1986
 SELECT e.emp_no, e.first_name, e.last_name, e.hire_date
-FROM employee e
+FROM employee e 
 WHERE e.hire_date SIMILAR TO '1986%';
-
+ 
 --List manager information for each department
 SELECT man.dept_no, dep.dept_name, e.emp_no, e.last_name, e.first_name, man.from_date, man.to_date
 FROM dept_manager man
@@ -54,4 +54,4 @@ OR dep.dept_name LIKE 'Development';
 SELECT last_name, COUNT(last_name) as Last_name_freq
 FROM employee
 GROUP BY last_name 
-ORDER BY COUNT(last_name) DESC;
+ORDER BY COUNT(last_name) DESC; 
